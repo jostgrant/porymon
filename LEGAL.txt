@@ -1,0 +1,16 @@
+Recent rullings by the US Copyright Office have stated
+AI generated art, effectively, cannot be Copyrighted.
+I am no expert, and do not know, nor will not claim
+to know the legal implications of this -- if such
+works are automatically entered into the public-domain,
+if fair-use comes into play, or what if anything else
+could / would apply. There's no real precedence that's
+in-place at the moment and I'm sure there will be a
+growing body of rullings that will shape the industry;
+even a probable Supreme Court case over the coming years
+to help define / codify things.
+
+For the time being, this repo will remain unlicensed.
+It is my intention to license this project under the
+CC0 (ie: release it as Public Domain) -- but currently
+, again, it's unlicensed. Please proceed with caution.
